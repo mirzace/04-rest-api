@@ -43,7 +43,6 @@ C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bi
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -61,3 +60,8 @@ C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bi
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Scrutor.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\04.REST-API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
