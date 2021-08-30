@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using API.Models;
 
 namespace API.Helpers
 {
@@ -14,6 +15,8 @@ namespace API.Helpers
         {
             CreateMap<Character, GetCharacterDto>();
             CreateMap<AddCharacterDto, Character>();
+            CreateMap<Weapon, GetWeponDto>();
+            CreateMap<Skill, GetSkillDto>();
         }
     }
 }

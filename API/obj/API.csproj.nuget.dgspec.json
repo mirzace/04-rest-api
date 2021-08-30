@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\mirzace\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mirzace\\Desktop\\Projects\\Junior Acceleration Program\\04.REST-API\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\mirzace\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
