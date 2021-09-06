@@ -55,6 +55,7 @@ namespace API
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddScoped<ICharacterService, CharacterService>();
             services.AddScoped<IWeaponService, WeaponService>();
+            services.AddScoped<IFightService, FightService>();
             services.AddAutoMapper(typeof(Startup));
 
 

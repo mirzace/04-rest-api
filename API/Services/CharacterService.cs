@@ -31,6 +31,8 @@ namespace API.Services
 
         public async Task<ServiceResponse<List<GetCharacterDto>>> AddCharacter(AddCharacterDto newCharacter)
         {
+            
+
             var serviceResponse = new ServiceResponse<List<GetCharacterDto>>();
 
             Character character = _mapper.Map<Character>(newCharacter);
@@ -42,6 +44,7 @@ namespace API.Services
             serviceResponse.Data = await _context.Characters
                 .Where(c => c.User.Id == GetUserId())
                 .Select(c => _mapper.Map<GetCharacterDto>(c)).ToListAsync();
+
             return serviceResponse;
         }
 

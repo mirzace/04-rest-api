@@ -17,6 +17,7 @@ namespace API.Helpers
             CreateMap<AddCharacterDto, Character>();
             CreateMap<Weapon, GetWeponDto>();
             CreateMap<Skill, GetSkillDto>();
+            CreateMap<Character, HighScoreDto>();
         }
     }
 }

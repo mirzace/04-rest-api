@@ -23,8 +23,6 @@ namespace API.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Seeding data into database
-
-
             modelBuilder.Entity<Skill>().HasData(
                 new Skill { Id = 1, Name = "Fireball", Damage = 30 },
                 new Skill { Id = 2, Name = "Frenzy", Damage = 20 },
